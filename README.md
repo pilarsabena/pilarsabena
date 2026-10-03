@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://pilarsabena.github.io"><img src="assets/header.svg" width="100%" alt="María Pilar Sabena · Computer Engineering"/></a>
+<a href="https://pilarsabena.github.io"><img src="header.svg" width="100%" alt="María Pilar Sabena · Computer Engineering"/></a>
 
-<a href="https://pilarsabena.github.io"><img src="assets/btn-web.svg" height="42" alt="Interactive CV"/></a>&nbsp;
-<a href="https://pilarsabena.github.io/Maria-Pilar-Sabena-CV-EN.pdf"><img src="assets/btn-cv.svg" height="42" alt="Download PDF"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/mar%C3%ADa-pilar-sabena-19a236238"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:pilar.sabena@mi.unc.edu.ar"><img src="assets/btn-mail.svg" height="42" alt="Email"/></a>
+<a href="https://pilarsabena.github.io"><img src="btn-web.svg" height="42" alt="Interactive CV"/></a>&nbsp;
+<a href="https://pilarsabena.github.io/Maria-Pilar-Sabena-CV-EN.pdf"><img src="btn-cv.svg" height="42" alt="Download PDF"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/mar%C3%ADa-pilar-sabena-19a236238"><img src="btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:pilar.sabena@mi.unc.edu.ar"><img src="btn-mail.svg" height="42" alt="Email"/></a>
 
 </div>
 
@@ -13,7 +13,7 @@
 
 I'm in my final year of **Computer Engineering** at the National University of Córdoba, with a background in economics and international sales experience. What excites me most is where technology meets people: figuring out what someone actually needs and turning it into something real.
 
-<img src="assets/value.svg" width="100%" alt="What I bring"/>
+<img src="value.svg" width="100%" alt="What I bring"/>
 
 ### Experience
 
@@ -47,9 +47,9 @@ I'm in my final year of **Computer Engineering** at the National University of C
 
 <br/>
 
-<img src="assets/ai.svg" width="100%" alt="AI tools: Claude, Claude Code, ChatGPT, Codex, Cursor, Gemini, DeepSeek"/>
+<img src="ai.svg" width="100%" alt="AI tools: Claude, Claude Code, ChatGPT, Codex, Cursor, Gemini, DeepSeek"/>
 
-<img src="assets/skills.svg" width="100%" alt="Skills"/>
+<img src="skills.svg" width="100%" alt="Skills"/>
 
 ### Education
 
@@ -77,4 +77,4 @@ Mirá la versión completa en **[pilarsabena.github.io](https://pilarsabena.gith
 
 <br/>
 
-<a href="https://pilarsabena.github.io"><img src="assets/footer.svg" width="100%" alt="Let's build something interesting."/></a>
+<a href="https://pilarsabena.github.io"><img src="footer.svg" width="100%" alt="Let's build something interesting."/></a>
