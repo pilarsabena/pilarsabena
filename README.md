@@ -7,9 +7,13 @@
 <a href="https://www.linkedin.com/in/mar%C3%ADa-pilar-sabena-19a236238"><img src="btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:pilar.sabena@mi.unc.edu.ar"><img src="btn-mail.svg" height="42" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
-**Computer Engineering student** · where technology meets people
+**Hey there! 👋**<br/>
+I'm studying **Computer Engineering** at the **National University of Córdoba**<br/>
+<sub>FCEFyN · Facultad de Ciencias Exactas, Físicas y Naturales</sub>
+
+I love the point where technology meets people.
 
 <br/>
 
