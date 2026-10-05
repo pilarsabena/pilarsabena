@@ -5,7 +5,7 @@
 <a href="https://pilarsabena.github.io"><img src="btn-web.svg" height="42" alt="Interactive CV"/></a>&nbsp;
 <a href="https://pilarsabena.github.io/Maria-Pilar-Sabena-CV-EN.pdf"><img src="btn-cv.svg" height="42" alt="Download PDF"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/mar%C3%ADa-pilar-sabena-19a236238"><img src="btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:pilar.sabena@mi.unc.edu.ar"><img src="btn-mail.svg" height="42" alt="Email"/></a>
+<a href="mailto:sabenamariapilar@gmail.com"><img src="btn-mail.svg" height="42" alt="Email"/></a>
 
 <br/>
 
