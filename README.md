@@ -2,7 +2,6 @@
 
 <a href="https://pilarsabena.github.io"><img src="header.svg" width="100%" alt="María Pilar Sabena · Computer Engineering"/></a>
 
-<a href="https://pilarsabena.github.io"><img src="btn-web.svg" height="42" alt="Interactive CV"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/mar%C3%ADa-pilar-sabena-19a236238"><img src="btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:sabenamariapilar@gmail.com"><img src="btn-mail.svg" height="42" alt="Email"/></a>
 
